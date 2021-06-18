@@ -1,5 +1,8 @@
 # Web Frontend Developer
 
+### Career
++ 2021.02 ~ Present | **BISKIT** - Web Front-End Developer
+
 ### Stack
 <div>
   <img src="https://img.icons8.com/color/40/javascript.png" alt="javascript" />
@@ -11,6 +14,6 @@
   <img src="https://raw.githubusercontent.com/gin-gonic/logo/master/color.png" alt="gin-gonic" height="40" />
 </div>
 
-### Link
+---
 [![Profile](https://img.shields.io/badge/Notion-Profile-white?logo=notion&logoColor=white&logoWidth=20)](https://www.notion.so/snotepad/Minsu-Shin-47b0f21f403c40c69fdf199540775981)
 [![Blog](https://img.shields.io/badge/Notion-Blog-white?logo=notion&logoColor=white&logoWidth=20)](https://www.notion.so/snotepad/BLOG-62e813a101c24a2ca3a83d39918ae7c1)
