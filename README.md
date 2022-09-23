@@ -9,7 +9,7 @@
 </p>
 
 ## Career (2 Year)
-- 2021.07 ~ Present [**TeamO2**](https://teamo2.kr/)
+- 2021.07 ~ Present [**TeamO2**](https://teamo2.kr/)([카모아](https://carmore.kr))
 - 2021.02 ~ 2021.07 **BISKIT**
 
 ## Education
