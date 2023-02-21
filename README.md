@@ -8,7 +8,7 @@
   <a href="https://medium.com/@ehsdnjfl1012" target="_blank"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" /></a>
 </p>
 
-## Career (2 Year)
+## Career (3 Year)
 - 2021.07 ~ Present [**TeamO2**](https://teamo2.kr/)([카모아](https://carmore.kr))
 - 2021.02 ~ 2021.07 **BISKIT**
 
